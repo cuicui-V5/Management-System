@@ -73,7 +73,7 @@ export const constantRoutes = [
         path: "sku",
         name: "Sku",
         component: () => import("@/views/product/sku/index.vue"),
-        meta: { title: "sku管理" },
+        meta: { title: "sku管理s" },
       },
       {
         path: "spu",
